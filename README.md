@@ -5,3 +5,8 @@ The course and the assignments cover robot control, motion planning, decision ma
 ## Assignment 1
 Using reachibility analysis, an LQR controller, and a control barrier function to generate collision-free and safe trajectories. <br/>
 ![Safe trajectory](images_and_videos/safe_trajectory_cbf.gif)
+
+## Assignment 2
+Using optimization-based motion planning in dynamic environments and feedback motion primitives to achieve robust trajectories. <br/>
+![Optimization-based motion planning](images_and_videos/trajectory_optimization_based_motion_planning.gif)
+![Trajectory using feedback motion primitives](images_and_videos/trajectory_feedback_motion_primitives.png)
